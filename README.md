@@ -108,25 +108,12 @@ The common bus is implemented using **4 multiplexers**, one for each bit:
 
 ---
 
-## File Structure
-
-* `common_bus.circ` — Main Logisim circuit file
-* `README.md` — Project documentation
-
----
-
 ## Future Improvements
 
 * Expand to 8-bit or 16-bit bus
 * Add ALU integration
 * Include control unit for automation
 * Implement tri-state buffer-based bus alternative
-
----
-
-## Author
-
-* Your Name
 
 ---
 
