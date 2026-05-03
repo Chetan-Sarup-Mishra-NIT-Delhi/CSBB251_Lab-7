@@ -107,6 +107,7 @@ The common bus is implemented using **4 multiplexers**, one for each bit:
 * The design can be extended to more registers by increasing MUX inputs and select lines.
 
 ---
+--
 
 ## Future Improvements
 
